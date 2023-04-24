@@ -5,3 +5,4 @@ while x <= 100:
         break
     print(x, "=", square)
     x += 1  #same as x = x + 1
+
